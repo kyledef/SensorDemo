@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SensorTheme" parent="Theme.AppCompat.Light">
+        <!-- Here we setting appcompat’s actionBarStyle -->
+        <!--<item name="actionBarStyle">@style/Theme.AppCompat.Light.DarkActionBar</item>-->
+
+        <!-- ...and here we setting appcompat’s color themeing attrs -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="icon">@color/icons</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="divider">@color/divider</item>
+    </style>
+</resources>
